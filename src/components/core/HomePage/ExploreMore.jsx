@@ -64,7 +64,7 @@ const ExploreMore = () => {
 
         {/* Course Card Group  */}
 
-        <div className='absolute flex flex-row gap-10 justify-between w-full'>
+        {/* <div className='absolute flex flex-row gap-10 justify-between w-full'>
             {
                 courses.map((element , index) =>{
                     return(
@@ -76,7 +76,7 @@ const ExploreMore = () => {
                     )
                 })
             }
-        </div>
+        </div> */}
     </div>
   )
 }
